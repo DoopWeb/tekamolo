@@ -3,12 +3,12 @@ title: Tekamolo da un gran paso
 subtitle: en la traducción con inteligencia artificial
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Nuestras mejoras
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Somos un grupo de ingenieros, programadores, matemáticos y lingüistas
+    innovadores. Juntos estamos desarrollando una herramienta de traducción con
+    el uso de inteligencia artificial mediante la implementación de machine y
+    deep learning, así como redes neuronales y lenguaje natural.
 intro:
   heading: What we offer
   text: >-
